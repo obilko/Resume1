@@ -2,7 +2,7 @@
 **Olena Bilko**
 265 N.Rengstorff Ave, Mountain View, CA, 94043
 
-(415) 400-9073 
+(415) 400-9073 |
 [lena.bilko@gmail.com](mailto:lena.bilko@gmail.com "email")
 
 ##Technical Project manager/Sr. System Analyst
