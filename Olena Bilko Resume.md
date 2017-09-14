@@ -109,7 +109,9 @@ Purge Customer Inactive Data –Total budget - $0.2M
 - Provided technical customer support.
 ----
 ####Project Manager/Fraud Lead
-MobileTeleSystems (http://umc.com.ua)
+
+MobileTeleSystems, (http://umc.com.ua)
+
 *Ukrainian telecom leader*
 
 **Dates:** 08/02/2000-01/30/2007
