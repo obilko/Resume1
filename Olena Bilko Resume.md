@@ -47,9 +47,12 @@ B.Sc. in Computer Science in Electrical Engineering
 ##Professional Experience
 ----
 
-####Website Development&Support / PM, Contractor, Remote	
-LoveInfoToday Inc., Toronto, Ontario, Canada 
+####Website Development&Support / PM, Contractor, Remote
+
+LoveInfoToday Inc., Toronto, Ontario, Canada
+
 **Dates:** 07/01/2016-Present
+----
 **Project:**
 - Working with business owner to gather and analyze business requirements;
 - Managed Website design, implementation, and ongoing support (loveinfotoday.com (in russian language));
@@ -60,8 +63,11 @@ LoveInfoToday Inc., Toronto, Ontario, Canada
 **Software and Technologies used**:	HTML, CSS, Java Skript, XML.
 
 ####Project Manager - Consulting
+
 Precision CPA Solutions(http://precisioncpasolutions.com), San Francisco, CA
+
 **Dates**: 09/15/2015-05/01/2016
+----
 **Project:** Company's website developing and Digital Marketing
 - Organized Website design,  implementation, and ongoing support;
 - Black box and functional testing;
@@ -70,9 +76,12 @@ Precision CPA Solutions(http://precisioncpasolutions.com), San Francisco, CA
 **Software and Technologies used**:	HTML, CSS, Java Skript, XML.
 
 ####System Analyst/Project Coordinator
+
 Rogers Telecommunications(http://rogers.com)
 * Canadian telecom leader*
+
 **Dates:** 11/11/2007-8/30/2014
+----
 **Projects:**
 Credit Card Updater – Total budget - $1.5M; 
 Purge Customer Inactive Data –Total budget - $0.2M
@@ -100,6 +109,7 @@ Purge Customer Inactive Data –Total budget - $0.2M
 MobileTeleSystems (http://umc.com.ua)
 * Ukrainian telecom leader*
 **Dates:** 08/02/2000-01/30/2007
+----
 **Duties**
 - Represented MTS on implementation of revenue assurance and fraud detection system   
 - Identified risks and their influence on company’s revenue and fraud prevention for different business processes
@@ -123,6 +133,7 @@ MobileTeleSystems (http://umc.com.ua)
 UkrEnergo
 * Heat and Power Electric Energy provider*
 **Dates:** 01/01/1996-08/02/2000
+----
 Frequency stabiliser (in transmission system) development, Software used: Assembler and C# 
 
 Written with [StackEdit](https://stackedit.io/).
