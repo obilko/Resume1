@@ -1,8 +1,10 @@
 
 **Olena Bilko**
 265 N.Rengstorff Ave, Mountain View, CA, 94043
+
 (415) 400-9073 
 [lena.bilko@gmail.com](mailto:lena.bilko@gmail.com "email")
+
 ##Technical Project manager/Sr. System Analyst
 ----
 ###Profile
@@ -47,7 +49,7 @@ B.Sc. in Computer Science in Electrical Engineering
 ##Professional Experience
 ----
 
-##Website Development&Support / PM, Contractor, Remote
+####Website Development&Support / PM, Contractor, Remote
 
 LoveInfoToday Inc., Toronto, Ontario, Canada
 
@@ -62,7 +64,8 @@ LoveInfoToday Inc., Toronto, Ontario, Canada
 - Responsible for the Customer support
 **Software and Technologies used**:	HTML, CSS, Java Skript, XML.
 ----
-##Project Manager - Consulting
+####Project Manager - Consulting
+
 Precision CPA Solutions(http://precisioncpasolutions.com), San Francisco, CA
 
 **Dates**: 09/15/2015-05/01/2016
@@ -74,7 +77,7 @@ Precision CPA Solutions(http://precisioncpasolutions.com), San Francisco, CA
 - Technical customer support
 **Software and Technologies used**:	HTML, CSS, Java Skript, XML.
 ----
-##System Analyst/Project Coordinator
+####System Analyst/Project Coordinator
 
 Rogers Telecommunications(http://rogers.com)
 *Canadian telecom leader*
@@ -105,9 +108,10 @@ Purge Customer Inactive Data –Total budget - $0.2M
 - Set up test data for user testing;
 - Provided technical customer support.
 ----
-##Project Manager/Fraud Lead
+####Project Manager/Fraud Lead
 MobileTeleSystems (http://umc.com.ua)
 *Ukrainian telecom leader*
+
 **Dates:** 08/02/2000-01/30/2007
 
 **Duties**
@@ -129,7 +133,7 @@ MobileTeleSystems (http://umc.com.ua)
 - Trained 20 users and 10 operators on E-Archive System and developed procedures for collaboration 
 - Completed project on-time and within budget 
 ----
-##Software engineer
+####Software engineer
 UkrEnergo
 
 * Heat and Power Electric Energy provider*
