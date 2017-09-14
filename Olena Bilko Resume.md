@@ -43,15 +43,14 @@ B.Sc. in Computer Science in Electrical Engineering
 |2015|Project Management|University of California, Berkeley, California
 |2007|Technical Communication: Technical Writing and Analysis|	George Brown College, Toronto, Canada
 
-###References
-*Available upon request* 
+
 ##Professional Experience
 ----
 
 ####Website Development&Support / PM, Contractor, Remote	
 LoveInfoToday Inc., Toronto, Ontario, Canada 
-07/01/2016-Present
->**Duties**:
+**Dates:** 07/01/2016-Present
+**Project:**
 - Working with business owner to gather and analyze business requirements;
 - Managed Website design, implementation, and ongoing support (loveinfotoday.com (in russian language));
 - Hosting setup and maintenance, google drive integration;
@@ -74,7 +73,7 @@ Precision CPA Solutions(http://precisioncpasolutions.com), San Francisco, CA
 Rogers Telecommunications(http://rogers.com)
 * Canadian telecom leader*
 **Dates:** 11/11/2007-8/30/2014
-**Responsibilities for Project Coordinator:**
+**Projects:**
 Credit Card Updater – Total budget - $1.5M; 
 Purge Customer Inactive Data –Total budget - $0.2M
 - Defined requirements with business stakeholders across eight departments
@@ -88,7 +87,7 @@ Purge Customer Inactive Data –Total budget - $0.2M
 - Organized and managed meetings with IT stakeholders and Business
 - Kept project teams on schedule through close collaboration and persuasion
 
-**Responsibilities for System Analyst:**
+**Duties for System Analyst:**
 - Analysed business and technical requirements; 
 - Wrote and executed SQL statements to validate database records;
 - Designed UI mock-ups in Visual Studio;
@@ -101,7 +100,7 @@ Purge Customer Inactive Data –Total budget - $0.2M
 MobileTeleSystems (http://umc.com.ua)
 * Ukrainian telecom leader*
 **Dates:** 08/02/2000-01/30/2007
-**Responsibilities:**
+**Duties**
 - Represented MTS on implementation of revenue assurance and fraud detection system   
 - Identified risks and their influence on company’s revenue and fraud prevention for different business processes
 - Identified KPI for the bad debts write-offs and provided monthly bad debts statistical reports 
@@ -112,7 +111,7 @@ MobileTeleSystems (http://umc.com.ua)
 - Trained ~30 Sales Department and Call Center team members monthly on fraud detection and prevention 
 - Cooperated with IT department to analyze and fix errors in Call Detailed Records. Reached 99.9% of billed calls 
 
-Project Manager: - Electronic Archive System – Total budget - $10M	            		
+**Project**: - Electronic Archive System – Total budget - $10M	            		
 - Hired and managed a team of 10 
 - Collaborated with Legal, Sales, Call Center and Finance to identify and define business, technical and functional requirements
 - Organized an RFP, prepared requirements, compared and recommended vendors
@@ -122,9 +121,8 @@ Project Manager: - Electronic Archive System – Total budget - $10M
 
 ####Software engineer
 UkrEnergo
-* Heat and Power Electric Energy provider *
+* Heat and Power Electric Energy provider*
 **Dates:** 01/01/1996-08/02/2000
-**Responsibilities:**
 Frequency stabiliser (in transmission system) development, Software used: Assembler and C# 
 
 Written with [StackEdit](https://stackedit.io/).
