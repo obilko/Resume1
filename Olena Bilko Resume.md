@@ -15,7 +15,7 @@
 * Negotiation skills, defining clients’ needs
 * Time management, attention to details
 
-> ###Technical Summary
+###Technical Summary
 * Platforms:    Windows 10/8/7/XP
 * Mobile Platorms:	iOS, Android OS
 * Languages/ Databases:	HTML, CSS, Python, XML/JSON, JavaScript, PL/SQL, UNIX/Shell
