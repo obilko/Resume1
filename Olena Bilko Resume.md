@@ -1,11 +1,11 @@
-**Olena Bilko**|
+##Olena Bilko
 
 265 N.Rengstorff Ave, Mountain View, CA, 94043
 
 (415) 400-9073 |
 [lena.bilko@gmail.com](mailto:lena.bilko@gmail.com "email")
 
-##Technical Project manager/Sr. System Analyst
+**Technical Project manager/Sr. System Analyst**
 ----
 ###Profile
 * 12+ years of experience in project management, system analysis and testing, experience in software development
